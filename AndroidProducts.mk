@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_d1.mk
+    $(LOCAL_DIR)/droidx_d1.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_d1-eng \
-    spark_d1-user \
-    spark_d1-userdebug
+    droidx_d1-eng \
+    droidx_d1-user \
+    droidx_d1-userdebug
