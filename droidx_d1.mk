@@ -43,7 +43,7 @@ $(call inherit-product, vendor/droidx/config/common_full_phone.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
 ## Device identifier, this must come after all inclusions
-PRODUCT_NAME := spark_d1
+PRODUCT_NAME := droidx_d1
 PRODUCT_DEVICE := d1
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-N970F
